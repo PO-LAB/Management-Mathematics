@@ -5,7 +5,7 @@ This webpage provides supporting materials for the course [管理數學(Manageme
 
 The content mainly refers to 線性代數(Linear Algebra).
 
-Instructor: [Chia-Yen Lee, Ph.D.](http://polab.im.ntu.edu.tw/Bio.html)
+Instructor: [李家岩 Chia-Yen Lee, Ph.D.](http://polab.im.ntu.edu.tw/Bio.html)
 
 
 ### **助教**
