@@ -1,8 +1,9 @@
 # Productivity-and-Efficiency-Analysis
 ### **內容概述**
 
-This webpage provides supporting materials for the course [管理數學 Management Mathematics](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=705%2011100&class=&dpt_code=7050&ser_no=75175&semester=110-2&lang=CH)
-The content mainly refers to Linear Algebra
+This webpage provides supporting materials for the course [管理數學(Management Mathematics)](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=705%2011100&class=&dpt_code=7050&ser_no=75175&semester=110-2&lang=CH)
+
+The content mainly refers to 線性代數(Linear Algebra).
 
 Instructor: [Chia-Yen Lee, Ph.D.](http://polab.im.ntu.edu.tw/Bio.html)
 
